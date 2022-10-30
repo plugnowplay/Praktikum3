@@ -4,6 +4,7 @@
 1. [Latihan 1](#Latihan-1)
 2. [Latihan 2](#Latihan-2)
 3. [Latihan 3](#Latihan-3)
+4. [Menghitung luas dan keliling lingkarn menggunakan `Python`](#Menghitung-luas-dan-keliling-lingkarn-menggunakan-`Python`)
 
 # Latihan 1
 <br>
@@ -179,7 +180,8 @@ Hello ini script python
 1. Buat File bernama luasKelilingLingkaran.py
 2. Berikut Flowchart untuk menghitung luas dan keliling lingkaran
 
-   ![flow](img/flow.png)
+   <img width="625" alt="flow" src="https://user-images.githubusercontent.com/115965039/198862746-0294dbd5-2951-4216-9344-0d8fbb49ef95.png">
+
 
 4. Lalu Masukan CODE berikut :
 
@@ -221,6 +223,8 @@ Hello ini script python
 
 4. Ketika dijalankan Inputkan Jari jari dan Berikut Hasil nya
 
-  ![Hasil](img/hasil.png)
+![hasil](https://user-images.githubusercontent.com/115965039/198862801-28bb7c6e-9f54-47a4-9e9f-17921875bd2f.png)
+
+
 
 5. Selesai Begitulah cara menghitung luas dan keliling Lingkaran
